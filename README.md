@@ -3,7 +3,7 @@
 ## Overview
 This project investigates the impact of changes in implied volatility on equity and stock index prices. Through detailed simulations, the study explores how delta hedging rebalances caused by implied volatility shifts exert pressure on underlying asset prices, a phenomenon distinct from traditional information-based market explanations.
 
-Note: The article can be found on the repository. The simulation codes can be shared on demand.
+Note: The article can be found in the repository. The simulation codes can be shared on demand.
 
 ## Technologies and Tools Used
 - **R:** For conducting simulations and statistical analysis.
