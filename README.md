@@ -5,8 +5,8 @@ This project investigates the impact of changes in implied volatility on equity 
 
 Note: The article can be found in the repository. The simulation codes can be shared on demand.
 
-## Technologies and Tools Used
-- **R:** For conducting simulations and statistical analysis.
+## Tools Used
+- **R:** For conducting simulations and producing illustrations.
   
 ## Methodology
 - **Model Development:** Introduction of an implied volatility term into the price evolution process to study the feedback effect on underlying prices.
